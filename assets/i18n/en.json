@@ -1,0 +1,138 @@
+{
+  "date": "March 2023",
+  "button": {
+    "login": "Login",
+    "signup": "Sign-up",
+    "board": "Create new board"
+  },
+  "dropdown": {
+    "profile": {
+      "edit": "Edit profile",
+      "logout": "Logout"
+    },
+    "search": {
+      "name": "By task title",
+      "desc": "By task description"
+    }
+  },
+  "confirm": {
+    "cancel": "Cancel",
+    "submit": "Delete",
+    "title": "Are you sure ?",
+    "message": {
+      "board": "Are you sure you want to delete this board ?",
+      "column": "Are you sure you want to delete this column ?",
+      "task": "Are you sure you want to delete this task ?",
+      "account": "Are you sure you want to delete your account ?"
+    }
+  },
+  "modal": {
+    "cancel": "Cancel",
+    "submit": "Save"
+  },
+  "inputLabel": {
+    "title": "Title",
+    "users": "Users",
+    "desc": "Description",
+    "responsible": "Responsible"
+  },
+  "error": {
+    "minLength": "Minimum length should be {{num}}",
+    "required": {
+      "login": "Login field is required",
+      "name": "Name filed is required",
+      "password": "Password filed is required",
+      "title": "Title filed is required",
+      "desc": "Description filed is required"
+    }
+  },
+  "intro": {
+    "title": "Project Management System",
+    "desc": "Simple, flexible, and powerful. All it takes are boards, lists, and cards to get a clear view of who's doing what and what needs to get done. What are you waiting for. Sign up!"
+  },
+  "features": {
+    "title": "Do more with our service",
+    "feature1": {
+      "name": "Integrations",
+      "desc": "Connect the apps your team already uses into your workflow or add a Power-Up to fine-tune your specific needs.",
+      "link": "Browse Integrations"
+    },
+    "feature2": {
+      "name": "Enterprise",
+      "desc": "The productivity tool teams love, paired with the features and security needed for scale.",
+      "link": "Browse more"
+    },
+    "feature3": {
+      "name": "Butler Automation",
+      "desc": "No-code automation is built into every board. Focus on the work that matters most and let the robots do the rest.",
+      "link": "Get to know Automation"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "per": "mo",
+    "tariff1": {
+      "name": "Free",
+      "price": "$0",
+      "desc": "For individuals or teams looking to organize any project.",
+      "link": "Get started"
+    },
+    "tariff2": {
+      "name": "Premium",
+      "price": "$10",
+      "desc": "For teams that need to track and visualize multiple projects in several ways, including boards, timelines, calendars, etc.",
+      "link": "Try for free"
+    },
+    "tariff3": {
+      "name": "Enterprise",
+      "price": "$15",
+      "desc": "For organizations that need to connect work across teams with more security and controls.",
+      "link": "Contact sales"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "desc": "I am a full-stack web developer and enthusiast to progress within software development. For the last two years, I have been learning web development and building various open-source projects. I'm currently studying at RS School. I love learning new things and sharing my knowledge and discoveries with others through videos (on Youtube) and Blog posts.",
+    "link": "Github Profile"
+  },
+  "course": {
+    "title": "About front-end course",
+    "desc": "The course program consists of 3 stages. There may be requirements for advancing to each higher stage, which will be described below. This specific run of the program will take the form of self-study. This means that you will have access to pre-recorded webinars, recommended materials, and weekly live Q&A sessions with our mentors/coordinators to answer any questions you might have."
+  },
+  "login": {
+    "login": "Login",
+    "password": "Password"
+  },
+  "signup": {
+    "signup": "Sign up",
+    "login": "Login",
+    "name": "Name",
+    "password": "Password"
+  },
+  "profile": {
+    "title": "Profile edit",
+    "login": "Login",
+    "name": "Name",
+    "password": "Password",
+    "btn": "Save",
+    "delete": {
+      "title": "Delete your user account",
+      "btn": "Delete User"
+    },
+    "successMsg": "Profile was updated successfully"
+  },
+  "main": {
+    "title": "Boards"
+  },
+  "board": {
+    "participants": "Participants",
+    "create": "Create board"
+  },
+  "column": {
+    "create": "Create column"
+  },
+  "task": {
+    "create": "Create task",
+    "edit": "Edit task"
+  }
+}
